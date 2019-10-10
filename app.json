@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "chess",
+    "icon": "./src/pieces/img/bK.png",
+    "version": "1.0.0",
+    "slug": "myChess",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.marcelherrijgers.myChessGame"
+    }
+  }
+}
